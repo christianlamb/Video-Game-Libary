@@ -41,8 +41,14 @@ import Foundation
  */
 
 print("Welcome to the Video Game Library\n")
+
+
+
 let libaryMenu = Menu()//Creat an instance of our Menu class, which handles showing the menu, taking user inout, and interfacing with teh rest of the application.
+
 libaryMenu.go()///This handles running the logic loop for our video game library. once we break out of this function,the library will close.
+
+
 
 
 

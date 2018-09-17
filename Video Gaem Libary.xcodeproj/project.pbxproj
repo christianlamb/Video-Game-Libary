@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD5C4C5D214AD2D600D43C38 /* Library.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5C4C5C214AD2D600D43C38 /* Library.swift */; };
 		DD7658532146E36400FAD0F0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD7658522146E36400FAD0F0 /* main.swift */; };
 		DD76585C2146EC0800FAD0F0 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD76585B2146EC0800FAD0F0 /* Game.swift */; };
 		DDD8BCC521482F7000DA0A70 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDD8BCC421482F7000DA0A70 /* Menu.swift */; };
@@ -25,6 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DD5C4C5C214AD2D600D43C38 /* Library.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Library.swift; sourceTree = "<group>"; };
 		DD76584F2146E36400FAD0F0 /* Video Gaem Libary */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Video Gaem Libary"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD7658522146E36400FAD0F0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		DD76585B2146EC0800FAD0F0 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				DD7658522146E36400FAD0F0 /* main.swift */,
 				DD76585B2146EC0800FAD0F0 /* Game.swift */,
 				DDD8BCC421482F7000DA0A70 /* Menu.swift */,
+				DD5C4C5C214AD2D600D43C38 /* Library.swift */,
 			);
 			path = "Video Gaem Libary";
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD7658532146E36400FAD0F0 /* main.swift in Sources */,
+				DD5C4C5D214AD2D600D43C38 /* Library.swift in Sources */,
 				DDD8BCC521482F7000DA0A70 /* Menu.swift in Sources */,
 				DD76585C2146EC0800FAD0F0 /* Game.swift in Sources */,
 			);
